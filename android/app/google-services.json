@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "83635710092",
+    "project_id": "quick-start-f1utter",
+    "storage_bucket": "quick-start-f1utter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83635710092:android:dcfd1515e2e026f3f973a9",
+        "android_client_info": {
+          "package_name": "com.example.quick_start"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdo529eyNkbuIvPaqgsrrai6rSrGeQp9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
