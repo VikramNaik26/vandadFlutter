@@ -44,6 +44,7 @@ class _HomePageState extends State<HomePage> {
     return Scaffold(
       appBar: AppBar(
         title: const Text("Register"),
+        backgroundColor: Color.fromARGB(255, 32, 78, 133),
       ),
       body: FutureBuilder(
         future: Firebase.initializeApp(
